@@ -23,16 +23,16 @@ The main objective is to build strong knowledge in:
 - Standard Java project structure and organization
 - Object-Oriented Programming (OOP) principles
 - Software development best practices
-- Clean, maintainable and scalable code
+- Clean, maintainable code following Java best practices
 
 ---
 ## Project Structure 📁
 
-The exercises are organized using a professional Java
-projects conventions. 
+The exercises are organized following standard Maven and Java
+project conventions. 
 
-Each section contains it's respective exercises and
-implementations, simulating a real-world software project struture.
+Each section contains its respective exercises and
+implementations, simulating a real-world software project structure.
 
 ```folders
  ☰ pom.xml
@@ -48,9 +48,9 @@ implementations, simulating a real-world software project struture.
  │   │                   ├── 🖿 ex01_gal_to_lit
  │   │                   │   └── ☰ GalToLit.java
  │   │                   ├── 🖿 ex02_student
- │   │                   │    └── ☰ Student.java
+ │   │                   │   └── ☰ Student.java
  │   │                   ├── 🖿 ex03_person
- │   │                       
+ │   │                       └── ☰ Person.java
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
@@ -63,3 +63,6 @@ implementations, simulating a real-world software project struture.
 - Git & GitHub
 - IntelliJ IDEA / Neovim
 - Linux
+
+## Status: in progress 🚧 
+— actively upd ated as course advances
