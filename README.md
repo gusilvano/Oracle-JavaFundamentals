@@ -45,9 +45,13 @@ implementations, simulating a real-world software project struture.
  │   │           └── 🖿 academy -- Exercises Location!
  │   │               ├── ☰ Main.java
  │   │               └── 🖿 section4
- │   │                   └── 🖿 ex01_gal_to_lit
- │   │                       └── ☰ GalToLit.java
- │   └── 🖿 resources
+ │   │                   ├── 🖿 ex01_gal_to_lit
+ │   │                   │   └── ☰ GalToLit.java
+ │   │                   ├── 🖿 ex02_student
+ │   │                   │    └── ☰ Student.java
+ │   │                   ├── 🖿 ex03_person
+ │   │                       
+ │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
 ```
