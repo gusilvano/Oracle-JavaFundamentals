@@ -1,5 +1,7 @@
-# Oracle Java Fundamentals
-
+# Oracle Java Fundamentals 
+**Status: in progress 🚧**
+ 
+Actively updated as course advances
 > Made by, Gustavo Silvano.
 
 ![Oracle](https://img.shields.io/badge/Oracle-Academy-red?style=for-the-badge&logo=oracle&logoColor=white)
@@ -8,10 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-gusilvano-black?style=for-the-badge&logo=github)](https://github.com/gusilvano)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gusilvano%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusilvano)
-
-> Status: in progress 🚧
-> 
-> Actively updated as course advances
 
 ---
 
