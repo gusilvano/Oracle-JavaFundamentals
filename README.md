@@ -9,6 +9,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gusilvano%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusilvano)
 
+> Status: in progress 🚧
+> 
+> Actively updated as course advances
+
 ---
 
 ## About ☕
@@ -65,4 +69,4 @@ implementations, simulating a real-world software project structure.
 - Linux
 
 ## Status: in progress 🚧 
-— actively upd ated as course advances
+— actively updated as course advances
