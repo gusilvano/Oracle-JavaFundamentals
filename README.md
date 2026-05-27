@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilvano-black?style=for-the-badge&logo=github)](https://github.com/gusilvano)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gusilvano%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gusilvano%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusilvano)
 
 ---
 
