@@ -1,3 +1,16 @@
+/*
+ * Classname: Student
+ *
+ * Date: 27/05/2026
+ *
+ * Author: Gustavo Silvano
+ *
+ * Description:
+ *
+ * Java application responsible for student
+ * information.
+ */
+
 package com.oracle.academy.section4.ex02_student;
 
 public class Student {
@@ -21,6 +34,4 @@ public class Student {
        System.out.println("Student ID: " + student.stuId);
        System.out.println("Student Status: " + student.stuStatus);
    }
-
-
 }
