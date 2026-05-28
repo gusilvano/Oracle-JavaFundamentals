@@ -67,6 +67,3 @@ Actively updated as course advances
 - Git & GitHub
 - IntelliJ IDEA / Neovim
 - Linux
-
-## Status: in progress 🚧 
-— actively updated as course advances
