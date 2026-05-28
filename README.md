@@ -1,7 +1,5 @@
 # Oracle Java Fundamentals 
-**Status: in progress 🚧**
- 
-Actively updated as course advances
+
 > Made by, Gustavo Silvano.
 
 ![Oracle](https://img.shields.io/badge/Oracle-Academy-red?style=for-the-badge&logo=oracle&logoColor=white)
@@ -57,6 +55,10 @@ implementations, simulating a real-world software project structure.
  └── 🖿 test
      └── 🖿 java
 ```
+**Status: in progress 🚧**
+
+Actively updated as course advances
+
 ---
 ## Technologies ⚡
 
