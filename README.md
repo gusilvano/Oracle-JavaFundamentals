@@ -64,9 +64,11 @@ implementations, simulating a real-world software project structure.
  │   │                   ├── 🖿 ex04_triangle
  │   │                   │   └── ☰ Triangle.java
  │   │                   ├── 🖿 ex05_math_formulas
- │   │                   │    └── ☰ Formulas.java
+ │   │                   │   └── ☰ Formulas.java
  │   │                   ├── 🖿 ex06_bus
- │   │                   │    └── ☰ Bus.java
+ │   │                   │   └── ☰ Bus.java
+ │   │                   └── 🖿 section4_final_project
+ │   │                       └── ☰ Inventory.java
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
