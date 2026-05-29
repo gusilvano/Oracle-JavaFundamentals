@@ -1,8 +1,6 @@
 /*
  * Classname: Student
  *
- * Date: 27/05/2026
- *
  * Author: Gustavo Silvano
  *
  * Description:

@@ -50,7 +50,9 @@ implementations, simulating a real-world software project structure.
  │   │                   ├── 🖿 ex02_student
  │   │                   │   └── ☰ Student.java
  │   │                   ├── 🖿 ex03_person
- │   │                       └── ☰ Person.java
+ │   │                   │   └── ☰ Person.java
+ │   │                   ├── 🖿 ex04_triangle
+ │   │                       └── ☰ Triangle.java
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
