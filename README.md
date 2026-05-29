@@ -25,11 +25,21 @@ The main objective is to build strong knowledge in:
 - Software development best practices
 - Clean, maintainable code following Java best practices
 
+
+---
+## Technologies ⚡
+
+- Java
+- Maven
+- Git & GitHub
+- IntelliJ IDEA / Neovim
+- Linux
+
 ---
 ## Project Structure 📁
 
 The exercises are organized following standard Maven and Java
-project conventions. 
+project conventions.
 
 Each section contains its respective exercises and
 implementations, simulating a real-world software project structure.
@@ -54,7 +64,9 @@ implementations, simulating a real-world software project structure.
  │   │                   ├── 🖿 ex04_triangle
  │   │                   │   └── ☰ Triangle.java
  │   │                   ├── 🖿 ex05_math_formulas
- │   │                       └── ☰ Formulas.java
+ │   │                   │    └── ☰ Formulas.java
+ │   │                   ├── 🖿 ex06_bus
+ │   │                   │    └── ☰ Bus.java
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
@@ -62,12 +74,3 @@ implementations, simulating a real-world software project structure.
 **Status: in progress 🚧**
 
 Actively updated as course advances
-
----
-## Technologies ⚡
-
-- Java
-- Maven
-- Git & GitHub
-- IntelliJ IDEA / Neovim
-- Linux
