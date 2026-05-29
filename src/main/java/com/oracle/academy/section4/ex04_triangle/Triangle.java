@@ -55,5 +55,7 @@ public class Triangle{
         else{
             System.out.println("Noting to do :(");
         }
+
+        scanner.close();
     }
 }

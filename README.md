@@ -52,7 +52,9 @@ implementations, simulating a real-world software project structure.
  │   │                   ├── 🖿 ex03_person
  │   │                   │   └── ☰ Person.java
  │   │                   ├── 🖿 ex04_triangle
- │   │                       └── ☰ Triangle.java
+ │   │                   │   └── ☰ Triangle.java
+ │   │                   ├── 🖿 ex05_math_formulas
+ │   │                       └── ☰ Formulas.java
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
