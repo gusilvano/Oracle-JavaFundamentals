@@ -62,6 +62,8 @@ implementations, simulating a real-world software project structure.
  │   │               │   │   └── ☰ IfElse.java 
  │   │               │   ├── 🖿 ex02_switch_or_if_else
  │   │               │   │   └── ☰ SwitchOrIfElse.java 
+ │   │               │   ├── 🖿 ex03_weight
+ │   │               │   │   └── ☰ Weight.java 
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
