@@ -108,5 +108,6 @@ public class Weight{
                 System.out.printf("%nThe number '%d' isn't a valid number :(",
                     choice);
         }
+        scanner.close();
     }
 }
