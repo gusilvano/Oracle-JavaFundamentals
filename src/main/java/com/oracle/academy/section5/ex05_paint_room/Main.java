@@ -6,16 +6,16 @@ public class Main{
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        Interface hud = new Interface();
+        ConsoleUI ui = new ConsoleUI();
 
-        hud.showHeader();
+        ui.showHeader();
 
-        Room room = hud.readRoom(scanner);
+        Room room = ui.readRoom(scanner);
 
         PaintCalculator calculator =
             new PaintCalculator(room.wallArea());
 
-        hud.showResult(calculator);
+        ui.showResult(calculator);
         scanner.close();
     }
 }

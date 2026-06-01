@@ -2,7 +2,7 @@ package com.oracle.academy.section5.ex05_paint_room;
 
 import java.util.Scanner;
 
-public class Interface{
+public class ConsoleUI {
 
     public void showHeader(){
         System.out.println("======================");
