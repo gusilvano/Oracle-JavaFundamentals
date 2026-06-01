@@ -68,7 +68,7 @@ implementations, simulating a real-world software project structure.
  │   │               │   │   ├── ☰ Main.java 
  │   │               │   │   └── ☰ Student.java
  │   │               │   ├── 🖿 ex05_paint_room
- │   │               │   │   ├── ☰ Interface.java 
+ │   │               │   │   ├── ☰ ConsoleUI.java 
  │   │               │   │   ├── ☰ Main.java
  │   │               │   │   ├── ☰ PainBucket.java 
  │   │               │   │   ├── ☰ PaintCalculator.java
