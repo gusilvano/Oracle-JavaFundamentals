@@ -67,6 +67,13 @@ implementations, simulating a real-world software project structure.
  │   │               │   ├── 🖿 ex04_mountville_university
  │   │               │   │   ├── ☰ Main.java 
  │   │               │   │   └── ☰ Student.java
+ │   │               │   ├── 🖿 ex05_paint_room
+ │   │               │   │   ├── ☰ Interface.java 
+ │   │               │   │   ├── ☰ Main.java
+ │   │               │   │   ├── ☰ PainBucket.java 
+ │   │               │   │   ├── ☰ PaintCalculator.java
+ │   │               │   │   └── ☰ Room.java 
+
  │   └── 🖿 resources        
  └── 🖿 test
      └── 🖿 java
